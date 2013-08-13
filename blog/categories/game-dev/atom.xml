@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[TylerKoske.com]]></title>
-  <link href="http://numo16.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Game Dev | TylerKoske.com]]></title>
+  <link href="http://numo16.github.io/blog/categories/game-dev/atom.xml" rel="self"/>
   <link href="http://numo16.github.io/"/>
   <updated>2013-08-12T21:53:51-04:00</updated>
   <id>http://numo16.github.io/</id>
@@ -12,17 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[New (and First) Book Potentially in the Works]]></title>
-    <link href="http://numo16.github.io/blog/2013/06/19/new-and-first-book-potentially-in-the-works/"/>
-    <updated>2013-06-19T21:44:00-04:00</updated>
-    <id>http://numo16.github.io/blog/2013/06/19/new-and-first-book-potentially-in-the-works</id>
-    <content type="html"><![CDATA[<p>You read that right, I may be writing a book. A major publisher of books for the tech crowd has approached me to ask if I would be interested in authoring a short book on programming using specific technologies (more info as I find out what exactly I am allowed to say). Needless to say, I am excited for the opportunity and a bit terrified, as I haven’t really done a large writing project in a long time…Especially not one that will be published through a major publisher.</p>
-
-<p>All that being said, I am very excited about the prospect and I intend on chronicling my experiences during the process here, as I am able. This should be a fun and exciting challenge. Stay tuned!</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Progress...]]></title>
