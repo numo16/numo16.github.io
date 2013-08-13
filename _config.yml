@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://numo16.github.io
-title: TylerKoske.com
-subtitle: Rants and ramblings about development, projects, and more...
+title: Tyler Koske
+subtitle: 
 author: Tyler Koske
-simple_search: http://google.com/search
-description: Tyler is a software developer based in Flint, MI (USA). In addition to his development day job, he is a mobile developer, web developer, and hobbyist game developer, who dabbles in graphic design and 3D modeling.
+simple_search: 
+description: I'm a software developer by day and a mobile, web, and hobbyist game developer, who dabbles in graphic design and 3D modeling, by night.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: numo16@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -66,7 +66,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 github_user: numo16
 github_repo_count: 3
 github_show_profile_link: true
-github_skip_forks: true
+github_skip_forks: false
 
 # Twitter
 twitter_user: numo16
