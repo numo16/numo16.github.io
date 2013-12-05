@@ -2,16 +2,25 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://numo16.github.io/blog/2010/10/21/its-about-time/</loc>
+<<<<<<< HEAD
         <lastmod>2013-12-05T09:47:46-05:00</lastmod>
     </url>
     <url>
         <loc>http://numo16.github.io/blog/2010/10/25/progress/</loc>
         <lastmod>2013-12-05T09:47:46-05:00</lastmod>
+=======
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://numo16.github.io/blog/2010/10/25/progress/</loc>
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+>>>>>>> ab6a192eeff2c8486ded5e49b31f5fac4400aea2
     </url>
     <url>
         <loc>
             http://numo16.github.io/blog/2013/06/19/new-and-first-book-potentially-in-the-works/
         </loc>
+<<<<<<< HEAD
         <lastmod>2013-12-05T09:47:46-05:00</lastmod>
     </url>
     <url>
@@ -43,5 +52,32 @@
     <url>
         <loc>http://numo16.github.io/robots.txt</loc>
         <lastmod>2013-12-05T09:47:46-05:00</lastmod>
+=======
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://numo16.github.io/about/</loc>
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://numo16.github.io/archives/</loc>
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://numo16.github.io/blog/archives/</loc>
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://numo16.github.io/blog/categories/</loc>
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://numo16.github.io/</loc>
+        <lastmod>2013-08-12T23:35:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://numo16.github.io/robots.txt</loc>
+        <lastmod>2013-08-12T23:33:57-04:00</lastmod>
+>>>>>>> ab6a192eeff2c8486ded5e49b31f5fac4400aea2
     </url>
 </urlset>
