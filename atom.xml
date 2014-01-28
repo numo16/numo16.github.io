@@ -4,14 +4,23 @@
   <title><![CDATA[Tyler Koske]]></title>
   <link href="http://numo16.github.io/atom.xml" rel="self"/>
   <link href="http://numo16.github.io/"/>
-  <updated>2013-12-05T09:56:30-05:00</updated>
+  <updated>2014-01-28T10:41:31-05:00</updated>
   <id>http://numo16.github.io/</id>
   <author>
     <name><![CDATA[Tyler Koske]]></name>
-    <email><![CDATA[numo16@gmail.com]]></email>
+    <email><![CDATA[tyler.koske@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New (Temporary) Site Home]]></title>
+    <link href="http://numo16.github.io/blog/2014/01/28/new-temporary-site-home/"/>
+    <updated>2014-01-28T09:58:00-05:00</updated>
+    <id>http://numo16.github.io/blog/2014/01/28/new-temporary-site-home</id>
+    <content type="html"><![CDATA[<p>Welcome to the new, temporary, home of tylerkoskes.com! I&rsquo;ve switched domain registrars from GoDaddy.com to Namecheap.com, which means I need to figure out a new hosting situation (was using godaddy&rsquo;s provided shared hosting). In the meantime, this blog on <a href="http://pages.github.com/">Github Pages</a> will be my home on the web. This blog will receive some updates as I figure out where my site will be heading, so stay tuned!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dragon Age 2 Review and the new Steam Project!]]></title>
