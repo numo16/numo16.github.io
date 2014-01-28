@@ -3,7 +3,7 @@ layout: post
 title: "Dragon Age 2 Review and the new Steam Project!"
 date: 2013-12-03 23:20
 comments: true
-categories: [Gaming, Development]
+categories: [Gaming, Development, Steam Project]
 ---
 
 Over the past month or so, I've been putting time into Dragon Age 2 (25 hours total) and now that I've finished it, I've decided to write a review of the game and my experience with it. I picked up Dragon Age 2 about a year ago in a 2 for 1 deal bundled with Mass Effect 2, which was the main reason for the purchase as I heard a lot about the changes that were made to Dragon Age 2 for the worse, when compared to Dragon Age: Origins. I decided it was time to play it since Dragon Age: Inquisition is on the horizon, so let's dig into the story, gameplay, and graphics a bit.
